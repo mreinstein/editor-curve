@@ -1,6 +1,8 @@
 # editor-curve
 a simple editor for bezier curve creation and editing
 
+![alt text](example.png "bezier curve editor")
+
 
 ## usage
 ```bash
