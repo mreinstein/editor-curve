@@ -3,8 +3,10 @@ a simple editor for bezier curve creation and editing
 
 ![alt text](example.png "bezier curve editor")
 
+https://editor-curve.vercel.app/
 
-## usage
+
+## run locally
 ```bash
 serve -p 5000
 ```

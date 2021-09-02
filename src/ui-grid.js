@@ -4,7 +4,7 @@ import { CodeExample }   from './code-example.js'
 import handleInteraction from './handle-interaction.js'
 
 
-
+// Calculates a point on the curve, for a given t value between 0 and 1 (inclusive)
 // adapted from https://pomax.github.io/bezierjs/#get
 function compute (out, t, points) {
     // shortcuts
